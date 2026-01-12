@@ -44,7 +44,7 @@ const SingleProduct = () => {
           <div className="col-md-6">
             <h2>{product.name}</h2>
             <p className="text-muted">{product.description}</p>
-            <h4>₹{product.price}</h4>
+            <h4>${product.price}</h4>
             <p>Category: {product.category.name}</p>
 
             <button className="btn btn-primary mt-3">Add to Cart</button>
