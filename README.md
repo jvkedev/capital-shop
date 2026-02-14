@@ -57,7 +57,7 @@ cd CapitalShop
 ```
 cd frontend
 
-cd npm install
+npm install
 
 ```
 
